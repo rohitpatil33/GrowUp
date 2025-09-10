@@ -86,7 +86,7 @@ npm install
 npm start
 ```
 ### 🙋‍♂️ Author
-Hitesh Pawar
+Rohit Patil
 Final Year Student, PICT Pune
 
 Passionate about finance + tech, backend systems, and real-time apps
